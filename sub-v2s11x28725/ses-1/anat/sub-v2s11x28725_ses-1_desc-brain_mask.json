@@ -1,0 +1,11 @@
+{
+  "RawSources": [
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-1_T1w.nii.gz",
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-2_T1w.nii.gz",
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-3_T1w.nii.gz",
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-4_T1w.nii.gz",
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-5_T1w.nii.gz",
+    "/bids/abide-both/sub-v2s11x28725/ses-1/anat/sub-v2s11x28725_ses-1_run-6_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}

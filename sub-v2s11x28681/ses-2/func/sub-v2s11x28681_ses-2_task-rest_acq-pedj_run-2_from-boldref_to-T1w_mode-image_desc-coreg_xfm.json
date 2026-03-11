@@ -1,0 +1,12 @@
+{
+  "FinalCost": 0.951181,
+  "GeneratedBy": [
+    {
+      "Name": "bbregister",
+      "Version": "7.3.2"
+    }
+  ],
+  "Sources": [
+    "bids::sub-v2s11x28681/ses-2/func/sub-v2s11x28681_ses-2_task-rest_acq-pedj_run-2_desc-coreg_boldref.nii.gz"
+  ]
+}

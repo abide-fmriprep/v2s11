@@ -1,0 +1,7 @@
+# AZS
+# compute_vox2vox talsrcimg talsrcimg_to_3T18yoSchwartzReactN32_as_orig_t4 /opt/freesurfer/average/3T18yoSchwartzReactN32_as_orig
+# freesurfer compute_vox2vox.c
+  1.403992  0.138181  0.048390  -41.4590
+ -0.207306  1.283599  0.485637  -22.3169
+ -0.019754 -0.580369  0.934374   96.8389
+  0.000000  0.000000  0.000000    1.0000
