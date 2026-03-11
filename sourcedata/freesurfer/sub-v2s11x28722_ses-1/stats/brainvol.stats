@@ -1,0 +1,16 @@
+# Measure BrainSeg, BrainSegVol, Brain Segmentation Volume, 1041037.631061136723, mm^3
+# Measure BrainSegNotVent, BrainSegVolNotVent, Brain Segmentation Volume Without Ventricles, 1031219.008880853653, mm^3
+# Measure SupraTentorial, SupraTentorialVol, Supratentorial volume, 943651.665109992027, mm^3
+# Measure SupraTentorialNotVent, SupraTentorialVolNotVent, Supratentorial volume, 933833.042929708958, mm^3
+# Measure SubCortGray, SubCortGrayVol, Subcortical gray matter volume, 48912.886934816837, mm^3
+# Measure lhCortex, lhCortexVol, Left hemisphere cortical gray matter volume, 238887.397470564785, mm^3
+# Measure rhCortex, rhCortexVol, Right hemisphere cortical gray matter volume, 239349.239586973010, mm^3
+# Measure Cortex, CortexVol, Total cortical gray matter volume, 478236.637057537795, mm^3
+# Measure TotalGray, TotalGrayVol, Total gray matter volume, 604785.093603904010, mm^3
+# Measure lhCerebralWhiteMatter, lhCerebralWhiteMatterVol, Left hemisphere cerebral white matter volume, 201743.834610164165, mm^3
+# Measure rhCerebralWhiteMatter, rhCerebralWhiteMatterVol, Right hemisphere cerebral white matter volume, 205555.673903703690, mm^3
+# Measure CerebralWhiteMatter, CerebralWhiteMatterVol, Total cerebral white matter volume, 407299.508513867855, mm^3
+# Measure Mask, MaskVol, Mask Volume, 1335598.344469249249, mm^3
+# Measure SupraTentorialNotVentVox, SupraTentorialVolNotVentVox, Supratentorial volume voxel count, 1823893.000000000000, mm^3
+# Measure BrainSegNotVentSurf, BrainSegVolNotVentSurf, Brain Segmentation Volume Without Ventricles from Surf, 1031219.008880853653, mm^3
+# Measure VentricleChoroidVol, VentricleChoroidVol, Volume of ventricles and choroid plexus, 7548.926600933075, mm^3
